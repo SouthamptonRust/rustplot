@@ -3,7 +3,7 @@ A simple GUI based plotting library for Rust using GTK and Cairo.
 
 ## Documentation
 
-Documentation of the API can be found on lib.rs.
+Documentation of the API can be found on lib.rs [here](https://docs.rs/rustplot/0.1.0/rustplot/index.html).
 
 ## Usage
 
